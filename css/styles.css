@@ -1,0 +1,15 @@
+h1{
+    color: green;
+    text-shadow: 2px 2px 3px white, 2px 2px 3px blue;
+    background-color: black;
+    font-size: 55px;
+    padding-left: 40%;
+    box-shadow: 3px 3px 3px yellow;
+
+}
+
+p{
+    width: 450px;
+    height: 450px;
+    border: solid 3px blue;
+}
