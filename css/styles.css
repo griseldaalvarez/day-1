@@ -5,17 +5,13 @@ h1{
     font-size: 55px;
     padding-left: 40%;
     box-shadow: 3px 3px 3px yellow;
-
 }
 
-p{
-    width: 250px;
-    height: 200px;
-    border: solid 3px blue;
+.box{
+    text-align: center;
 }
 
-.deadpool{
-    height: 220px;
-    width: 250px;
-    
+img{
+    height: 400px;
+    width: 400px;
 }
