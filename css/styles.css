@@ -1,4 +1,4 @@
-h1{
+.hello{
     color: green;
     text-shadow: 2px 2px 3px white, 2px 2px 3px blue;
     background-color: black;
@@ -14,4 +14,27 @@ h1{
 img{
     height: 400px;
     width: 400px;
+    border: solid 8px purple;
+    border-radius: 10px;
+}
+
+h1{
+    color: #003300;
+    text-shadow: 2px 2px 3px white, 2px 2px 3px blue;
+    background-color: black;
+    font-size: 55px;
+    box-shadow: 3px 3px 3px yellow;
+    padding-left: 25%;
+}
+
+#tamales{
+    width: 548px;
+    margin-left: 31%;
+}
+
+ul{
+    font-family: 'Waiting for the Sunrise', cursive;
+    font-size: 35px;
+    font-weight: bold;
+    color: #cc0066;
 }
