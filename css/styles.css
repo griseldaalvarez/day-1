@@ -32,9 +32,15 @@ h1{
     margin-left: 31%;
 }
 
-ul{
+.list-item{
     font-family: 'Waiting for the Sunrise', cursive;
-    font-size: 35px;
+    font-size: 24px;
     font-weight: bold;
-    color: #cc0066;
+    color: #000;
+    text-align: center;
+    list-style: inside;
+    padding: 10px;
+    border: solid 3px #000;
+    margin: 10px;
+    background-color: yellow;
 }
